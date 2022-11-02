@@ -10,10 +10,11 @@
 *Colorado*
 ![image](https://cdn.britannica.com/74/7674-050-FCCC7650/Colorado-state-flag-letter-C-pattern-gold-1964.jpg)
 ## Discription
-- [x] step 1
-- [ ] step 2
-- [ ] complete :tada:
+- [x] Repository Practice
+- [x] Hello-world repository
+- [x] complete :tada:
 ## How to run program
+Example Code
 ## Files used
 [Colorado Health Data](https://cdphe.colorado.gov/sites/cdphe/files/HHW_WS_Work-related-Exposures-Reported-to-a-Poison-Center-2000-2010_1.pdf)
 Work related poison exposure
