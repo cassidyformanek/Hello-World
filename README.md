@@ -1,6 +1,6 @@
 # Hello-World
 ## **Table of Contents**
-1. [PROJECT TITLE]
+1. [PROJECT TITLE](https://github.com/cassidyformanek/Hello-World/blob/main/README.md#project-title)
 2. [DISCRIPTION]
 3. [HOW TO RUN PROGRAM]
 4. [FILES USED]
